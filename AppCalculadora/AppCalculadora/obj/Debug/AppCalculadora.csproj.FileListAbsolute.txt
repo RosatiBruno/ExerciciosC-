@@ -1,0 +1,10 @@
+C:\Users\Bruno\Desktop\AppCalculadora\AppCalculadora\bin\Debug\AppCalculadora.exe.config
+C:\Users\Bruno\Desktop\AppCalculadora\AppCalculadora\bin\Debug\AppCalculadora.exe
+C:\Users\Bruno\Desktop\AppCalculadora\AppCalculadora\bin\Debug\AppCalculadora.pdb
+C:\Users\Bruno\Desktop\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.Form1.resources
+C:\Users\Bruno\Desktop\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.Properties.Resources.resources
+C:\Users\Bruno\Desktop\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.csproj.GenerateResource.cache
+C:\Users\Bruno\Desktop\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.exe
+C:\Users\Bruno\Desktop\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.pdb
